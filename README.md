@@ -28,7 +28,9 @@
 - 2019-4-至今
 
     负责手机取证软件研发，负责安徽省公安厅**平台的研发工作
+
     入职第一年最佳新人，第二年优秀员工
+
     一项专利<[一种多电子取证案件中的时间关系分析方法 [发明]](https://cprs.patentstar.com.cn/Search/Detail?ANE=4BBA4BDA9EDA9IAA9FGD9FHE8CEAHHIA5ABA9HED4BAA9GAE)>
 
 ## 项目经历
